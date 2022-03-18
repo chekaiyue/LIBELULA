@@ -90,3 +90,7 @@ input:-ms-input-placeholder {
     /* Internet Explorer 10+ */
     color: #ddd;
 }
+
+p {
+    color: #b7bdc8;
+}
