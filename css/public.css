@@ -3,8 +3,7 @@
 .li_header {
     width: 100%;
     height: 77px;
-    background: #baa1e7;
-    /* border-bottom: 1px solid #9d9895; */
+    background: #9093e3;
     position: fixed;
     left: 0;
     top: 0;
@@ -23,6 +22,10 @@ header .title {
     line-height: 77px;
 }
 
+header .title h1{
+    color: #565e78;
+}
+
 header .nav {
     float: right;
     height: 78px;
@@ -31,17 +34,13 @@ header .nav {
 }
 
 header .nav a {
-    color: #220e03;
-    margin-right: 29px;
+    color: #565e78;
+    margin-right: 50px;
 }
 
 header .nav .search {
-    color: #220e03;
+    color: #565e78;
     width: 20px;
-    line-height: 78px;
+    line-height: 90px;
     vertical-align: middle;
-}
-
-header .nav a:first-child {
-    margin-right: 36px;
 }

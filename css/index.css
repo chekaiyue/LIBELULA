@@ -1,0 +1,86 @@
+.banner {
+  height: 420px;
+  background: #9093e3;
+  margin-top: 77px;
+}
+
+.container {
+  width: 627px;
+  height: 288px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.container p {
+  margin-bottom: 30px;
+  font-size: 14px;
+  color: #49525e;
+}
+
+.container h1 {
+  font-size: 45px;
+  margin-bottom: 30px;
+  color: #49525e;
+}
+
+.container .searchInp {
+  width: 311px;
+  height: 46px;
+  border: none;
+  border-radius: 8px 0 0 8px;
+}
+
+.container .searchBtn {
+  height: 46px;
+  width: 116px;
+  border: none;
+  margin-left: -4px;
+  color: #fff;
+  background-color: #49525d;
+  border-radius: 0 8px 8px 0;
+}
+
+.content {
+  width: 100%;
+}
+
+.content_box{
+  width: 842px;
+  margin: 0 auto;
+}
+
+.content .con_top {
+  font-size: 15px;
+  color: #a9b2bf;
+  margin-bottom: 30px;
+  margin-top: 40px;
+}
+.content .con_footer {
+  margin-top: 57px;
+}
+
+.content .con_footer .con_left{
+  float: left;
+  width: 300px;
+}
+
+.content .con_footer .con_left h1 {
+  margin-bottom: 10px;
+  color: #5e6670;
+}
+
+.content .con_footer .con_left p {
+  width: 250px;
+  margin-bottom: 10px;
+  color: #b7bdc8;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.content .con_footer .con_right{
+  float: right;
+  width: 260px;
+  height: 160px;
+  background-color: #9093e3;
+}
