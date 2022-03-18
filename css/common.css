@@ -94,3 +94,12 @@ input:-ms-input-placeholder {
 p {
     color: #b7bdc8;
 }
+
+::-webkit-input-placeholder { 
+    /* WebKit browsers，webkit内核浏览器 */
+    color: #ccc; 
+    font-size: 16px;
+}
+div {
+    box-sizing: content-box;
+}

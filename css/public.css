@@ -1,3 +1,8 @@
+/* mainColor: #9093e3 || #e9ecf3*/
+/* h1Color: #49525e */
+/* pColor: #a9b2bf */
+/* btnColor: #49525d */
+
 /**********header************/
 
 .li_header {
@@ -38,9 +43,14 @@ header .nav a {
     margin-right: 50px;
 }
 
+header .nav a:hover {
+    color: rgb(226, 161, 21);
+}
+
 header .nav .search {
     color: #565e78;
     width: 20px;
     line-height: 90px;
     vertical-align: middle;
 }
+
