@@ -1,0 +1,47 @@
+/**********header************/
+
+.li_header {
+    width: 100%;
+    height: 77px;
+    background: #baa1e7;
+    /* border-bottom: 1px solid #9d9895; */
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: 10;
+}
+
+header {
+    width: 1251px;
+    height: 78px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+header .title {
+    float: left;
+    line-height: 77px;
+}
+
+header .nav {
+    float: right;
+    height: 78px;
+    line-height: 77px;
+    font-size: 14px;
+}
+
+header .nav a {
+    color: #220e03;
+    margin-right: 29px;
+}
+
+header .nav .search {
+    color: #220e03;
+    width: 20px;
+    line-height: 78px;
+    vertical-align: middle;
+}
+
+header .nav a:first-child {
+    margin-right: 36px;
+}
