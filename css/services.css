@@ -1,0 +1,40 @@
+.banner {
+  height: 210px;
+  background: #9093e3;
+  margin-top: 77px;
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 30px;
+  color: #49525e;
+  padding-top: 77px;
+}
+
+.block {
+  width: 304px;
+  height: 196px;
+  background-color: #9093e3;
+}
+
+.content_box {
+  width: 100%;
+  margin-top: 100px;
+  display: flex;
+  /* padding: 0 100px 0 100px; */
+}
+
+.content {
+  width: 305px;
+  flex: 1;
+  flex-wrap: wrap;
+}
+
+.content:first-child {
+  margin-left: 185px;
+}
+
+.content h1,p {
+  width: 305px;
+  margin-top: 20px;
+}
