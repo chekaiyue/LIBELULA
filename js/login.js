@@ -1,4 +1,4 @@
-function login() {
+function login(form) {
   var username = document.getElementById("username")
   var password = document.getElementById("password")
   console.log(username, password)
