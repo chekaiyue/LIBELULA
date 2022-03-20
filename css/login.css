@@ -50,7 +50,7 @@ input{
   border-radius: 5px;
 }
 
-button {
+.btn {
     color: #fff;
     font-size: 18px;
     width: 105%;

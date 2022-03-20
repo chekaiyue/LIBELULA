@@ -41,6 +41,7 @@ header .nav {
 header .nav a {
     color: #565e78;
     margin-right: 50px;
+    text-decoration: none;
 }
 
 header .nav a:hover {

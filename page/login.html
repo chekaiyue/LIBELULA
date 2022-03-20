@@ -35,9 +35,11 @@
         <div class="sign">
           <h1>Sign in</h1>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In nec nibh vitae...</p>
-          <input type="text" placeholder="Email">
-          <input type="password" placeholder="Password">
-          <button>Sign in</button>
+          <form action="#">
+            <input type="text" required placeholder="Email" id="username">
+            <input type="password" required placeholder="Password" id="password">
+            <input type="submit" id="login" value="Sign in" class="btn" onclick="login()">
+          </form>
           <p>Forget your password?</p>
         </div>
       </div>
@@ -51,12 +53,10 @@
           <input type="text" placeholder="Adress">
           <input type="text" placeholder="Email">
           <input type="password" placeholder="Password">
-          <button>Register</button>
+          <button class="btn">Register</button>
         </div>
       </div>
     </div>
-    
   </div>
-  
 </body>
 </html>
