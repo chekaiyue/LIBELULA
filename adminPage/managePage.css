@@ -1,0 +1,75 @@
+.banner {
+  height: 150px;
+  background: #9093e3;
+  margin-top: 77px;
+  text-align: center;
+  border-top: 1px solid #fff;
+}
+
+.banner h1 {
+  font-size: 30px;
+  color: #49525e;
+  /* padding-top: 77px; */
+  line-height: 150px;
+}
+
+.content {
+  box-sizing: content-box;
+  width: 85%;
+  margin: 30px auto;
+  overflow: hidden;
+}
+
+.block {
+  box-sizing: border-box;
+  width: 550px;
+  height: 250px;
+  float: left;
+  margin-right: 60px;
+  padding-left: 39px;
+}
+
+.block h1 {
+  font-size: 26px;
+  margin: 10px 0 20px 20px;
+}
+
+.Inp {
+  display: block;
+  width: 200px;
+  height: 41px;
+  padding-left: 18px;
+  margin-bottom: 10px;
+  border: 1px solid gray;
+  border-radius: 5px;
+  color: #a9b2bf;
+}
+
+.block select {
+  width: 220px;
+  padding-right: 20px;
+}
+
+.fr {
+  margin-right: 18%;
+}
+
+.fr textarea {
+  display: block;
+  color: #a9b2bf;
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding-left: 10px;
+  padding-top: 10px;
+  margin-bottom: 10px;
+
+}
+
+.fr button {
+  width: 183px;
+  height: 41px;
+  border-radius: 6px;
+  color: #fff;
+  background-color: #49525d;
+  border: none;
+}

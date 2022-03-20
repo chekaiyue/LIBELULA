@@ -109,5 +109,14 @@ p {
 }
 
 div {
-    box-sizing: content-box;
+    box-sizing: border-box;
+}
+
+
+.fl {
+    float: left;
+  }
+  
+.fr {
+float: right;
 }
