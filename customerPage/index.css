@@ -1,0 +1,105 @@
+.banner {
+  height: 100px;
+  background: #9093e3;
+  margin-top: 77px;
+  border-top: 1px solid #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.banner h1 {
+  font-size: 30px;
+  color: #49525e;
+  line-height: 150px;
+  flex-grow: 2;
+}
+
+.banner .img {
+  width: 100px;
+  text-align: left;
+}
+.banner img {
+  width: 35px;
+}
+
+.banner p {
+  font-size: 18px;
+  color: #49525e;
+}
+
+.content {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.left_box {
+  float: left;
+  width: 70%;
+  margin-left: 50px;
+}
+
+.container_top h1{
+  margin: 0 0 10px 20px;
+  color: #49525e;
+}
+
+.container_top ul li{
+  float: left;
+  width: 226px;
+  height: 200px;
+  margin-left: 20px;
+  background-color: #9093e3;
+  margin-bottom: 30px;
+}
+.container_top ul li img{
+  width: 40px;
+  position: relative;
+  left: 165px;
+  top: 20px;
+}
+
+.container_bottom {
+  margin-top: 20px;
+}
+
+.courses {
+  width: 48%;
+  float: left;
+}
+.courses h1,.Bakery h1 {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.Bakery {
+  width: 48%;
+  float: right;
+  /* margin-left: 30px; */
+}
+
+.block {
+  display: inline-block;
+  width: 130px;
+  height: 100px;
+  background-color: #9093e3;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.right_box {
+  float: right;
+  width: 20%;
+  margin-top: 42px;
+}
+
+
+
+.right_box ul li{
+  color: #a9b2bf;
+  margin-bottom: 1px;
+  font-size: 14px;
+  line-height: 3;
+  list-style: disc;
+}
